@@ -1,0 +1,6 @@
+[submodule "HyperCubeTree"]
+	path = HyperCubeTree
+	url = https://github.com/carrardt/HyperCubeTree.git
+[submodule "soa"]
+	path = soa
+	url = https://github.com/carrardt/soa.git
